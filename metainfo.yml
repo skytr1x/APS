@@ -1,0 +1,5 @@
+id: another_plugin_system
+name: Another Plugin System
+version: "1.0.0"
+description: "{plugin_description}"
+author: "@sktrxdev & @auracvet"
